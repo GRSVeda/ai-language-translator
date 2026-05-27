@@ -1,6 +1,9 @@
-import streamlit as dict
+
 import streamlit as st
 from transformers import pipeline
+
+# Set up page configuration
+#st.set_page_config(page_title="AI Translator", page_icon="🌐", layout="wide")
 
 # Set up page configuration
 st.set_page_config(page_title="AI Translator", page_icon="🌐", layout="wide")
