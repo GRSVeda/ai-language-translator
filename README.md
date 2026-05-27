@@ -2,7 +2,7 @@
 A production-ready, open-source AI language translation web application built from scratch using Python. The application utilizes deep learning to translate text across multiple languages seamlessly and features an interactive UI optimized for web deployment.
 
 🚀 Live Demo
-[👉 Click here to view the live application on Streamlit Cloud](PASTE_YOUR_STREAMLIT_SHARING_URL_HERE)
+[👉 Click here to view the live application on Streamlit Cloud]((https://ai-language-translator-i7noetffchtzkjefl6dmwk.streamlit.app/))
 
 🛠️ Core Features & Technical Architecture
 * State-of-the-Art Translation Engine: Powered by Meta's **NLLB-200 (No Language Left Behind)** distilled model via the Hugging Face `transformers` ecosystem, capable of cross-lingual translation across hundreds of languages.
